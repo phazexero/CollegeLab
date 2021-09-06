@@ -52,6 +52,8 @@ int main()
     linked_list a;
     a.add_node(1);
     a.add_node(2);
+    a.add_node(3);
+    
     a.display();
     return 0;
 }
